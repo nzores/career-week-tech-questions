@@ -1,0 +1,4 @@
+{
+  "js/ts.implicitProjectConfig.checkJs": false,
+  "tabnine.disable_file_regex": ["lectures/**/*.js"]
+}
